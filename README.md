@@ -7,4 +7,6 @@ Link to the design : https://zpl.io/2E4mD5x
 react-bootstrap  
 styled-components
 
+## Preview
+
 ![Preview](pracify.gif)
