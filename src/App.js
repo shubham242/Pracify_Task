@@ -1,4 +1,3 @@
-import './App.css';
 import Header from './components/Header.js';
 import Welcome from './components/Welcome.js';
 import Company from './components/Company.js';
