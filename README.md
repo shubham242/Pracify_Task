@@ -4,5 +4,5 @@ Link to the design : https://zpl.io/2E4mD5x
 
 ## Prerequisites
 
-react-bootstrap
+react-bootstrap  
 styled-components
